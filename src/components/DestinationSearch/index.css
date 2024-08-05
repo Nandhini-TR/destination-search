@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 28px;
+  text-align: center;
+  margin-top: 30px;
+}
+.search-container {
+  text-align: center;
+  padding: 20px;
+}
+.search-input {
+  padding: 20px;
+  font-size: 20px;
+}

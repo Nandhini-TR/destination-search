@@ -1,0 +1,11 @@
+.image {
+  height: 400px;
+  width: 400px;
+  border-radius: 5px;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 14px;
+  margin-top: 10px;
+  color: #000000;
+}
